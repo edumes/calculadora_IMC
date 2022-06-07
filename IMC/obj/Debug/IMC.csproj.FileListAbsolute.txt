@@ -1,0 +1,9 @@
+R:\win_forms\IMC\IMC\bin\Debug\IMC.exe.config
+R:\win_forms\IMC\IMC\bin\Debug\IMC.exe
+R:\win_forms\IMC\IMC\bin\Debug\IMC.pdb
+R:\win_forms\IMC\IMC\obj\Debug\IMC.csprojResolveAssemblyReference.cache
+R:\win_forms\IMC\IMC\obj\Debug\IMC.Form1.resources
+R:\win_forms\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+R:\win_forms\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.Cache
+R:\win_forms\IMC\IMC\obj\Debug\IMC.exe
+R:\win_forms\IMC\IMC\obj\Debug\IMC.pdb
